@@ -1,0 +1,13 @@
+.nav {
+  background-color: black;
+  color: silver;
+  width: 250px;
+  min-height: 100vh;
+  border-right: 2px solid blue;
+  &_list {
+      text-align: center;
+      & li {
+          padding-top: 2em;
+      }
+  }
+}
