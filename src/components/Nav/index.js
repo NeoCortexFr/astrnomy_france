@@ -4,6 +4,7 @@ import './nav.scss';
 const Nav = () => (
   <nav className="nav">
     <ul className="nav_list">
+      <li>Accueil</li>
       <li>Système solaire</li>
       <li>Sondes spatiales</li>
       <li>Relativité restreinte</li>
