@@ -1,0 +1,17 @@
+.footer {
+    background-color: black;
+    color: silver;
+    &_title {
+        text-align: center;
+        padding: 1em;
+    }
+    &_center {
+        text-align: center;
+        padding: 1em;
+    }
+    &_list {
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 1em;
+    }
+}
