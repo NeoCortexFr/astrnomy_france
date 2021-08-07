@@ -19,7 +19,7 @@ const Page = () => (
       <Route path="/sondes-spatiales" component={Sondes} />
       <Route path="/relativite-restreinte" component={RR} />
       <Route path="/relativite-generale" component={RG} />
-      <Route path="/physque-astrophysique-mathematiques" component={Phys} />
+      <Route path="/physique-astrophysique-mathematiques" component={Phys} />
       <Route path="/livres-ouvrages" component={Book} />
       <Route path="/glossaire" component={Glossaire} />
     </Switch>
